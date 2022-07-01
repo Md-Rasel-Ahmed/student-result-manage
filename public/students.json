@@ -1,0 +1,30 @@
+[
+    {    "id":"1",
+        "name":"Alamin",
+        "class":"9th",
+        "grade":"Excellent",
+        "score":"80/100",
+        "result":"Passed"
+    },
+    {   "id":"2",
+        "name":"Rakib",
+        "class":"7th",
+        "grade":"Poor",
+        "score":"20/100",
+        "result":"Failed"
+    },
+    {   "id":"3",
+        "name":"Nahida",
+        "class":"8th",
+        "grade":"Average",
+        "score":"60/100",
+        "result":"Passed"
+    },
+    {   "id":"4",
+        "name":"Rasel",
+        "class":"6th",
+        "grade":"Average",
+        "score":"60/100",
+        "result":"Passed"
+    }
+]
